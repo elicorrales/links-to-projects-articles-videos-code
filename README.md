@@ -1,8 +1,9 @@
 
 # Spring BOOT REST Salsa App
 <a href="https://github.com/elicorrales/spring-boot-rest-salsa-app"><h3> The Project Code </h3></a>
+## (click image for demo video)
 <a href="https://www.youtube.com/watch?v=n8iiK72XYK8">
-<img align="left" src="salsa.app.2.png" width="350" title="Spring Boot REST Salsa App">
+<img align="left" src="salsa.app.2.png" width="350" title="Youtube Demo">
 </a>
 
 # Articles On Robotics & Embedded Projects
