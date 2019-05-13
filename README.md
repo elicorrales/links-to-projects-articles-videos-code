@@ -1,8 +1,8 @@
 # Simple Perceptron App
-<a href="SimplePerceptronApp"><h3> The Project Code </h3></a>
+<a href="https://github.com/elicorrales/SimplePerceptronApp"><h3> The Project Code </h3></a>
 ## (click image for demo video)
 <a href="https://www.youtube.com/watch?v=sROclpH-QA0">
-<img src="SimplePerceptronApp/SimplePerceptronApp.png" width="350" title="Youtube Demo">
+<img src="https://github.com/elicorrales/SimplePerceptronApp/SimplePerceptronApp.png" width="350" title="Youtube Demo">
 </a>
 
 
