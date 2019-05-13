@@ -1,3 +1,11 @@
+# Simple Perceptron App
+<a href="SimplePerceptronApp"><h3> The Project Code </h3></a>
+## (click image for demo video)
+<a href="https://www.youtube.com/watch?v=sROclpH-QA0">
+<img src="SimplePerceptronApp/SimplePerceptronApp.png" width="350" title="Youtube Demo">
+</a>
+
+
 # Spring Boot REST Responsive Multi-File Upload
 <a href="https://github.com/elicorrales/spring.boot.large.files.upload.download.show.progress"><h3> The Project Code </h3></a>
 ## (click image for demo video)
