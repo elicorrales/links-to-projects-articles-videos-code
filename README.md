@@ -2,7 +2,7 @@
 <a href="https://github.com/elicorrales/SimplePerceptronApp"><h3> The Project Code </h3></a>
 ## (click image for demo video)
 <a href="https://www.youtube.com/watch?v=sROclpH-QA0">
-<img src="https://github.com/elicorrales/SimplePerceptronApp/SimplePerceptronApp.png" width="350" title="Youtube Demo">
+<img src="https://github.com/elicorrales/SimplePerceptronApp/blob/master/SimplePerceptronApp.png" width="350" title="Youtube Demo">
 </a>
 
 
