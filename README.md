@@ -1,3 +1,11 @@
+# Improved XOR Neural Network Training Demo
+<a href="https://github.com/elicorrales/p5js-nature-of-code-neural-network-xor-example-improved"><h3> The Project Code </h3></a>
+## (click image for demo video)
+<a href="https://www.youtube.com/watch?v=QEADkS7menU">
+<img src="https://github.com/elicorrales/p5js-nature-of-code-neural-network-xor-example-improved/blob/master/screenshot.PNG" width="350" title="Youtube Demo">
+</a>
+
+
 # Simple Perceptron App
 <a href="https://github.com/elicorrales/SimplePerceptronApp"><h3> The Project Code </h3></a>
 ## (click image for demo video)
