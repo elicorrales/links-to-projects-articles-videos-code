@@ -1,3 +1,11 @@
+# Color Classifier Using Tensorflow.js
+<a href="https://github.com/elicorrales/tensorflow.js-color-classifier"><h3> The Project Code </h3></a>
+## (click image for demo video)
+<a href="https://www.youtube.com/watch?v=wMer83vKeoc">
+<img src="https://github.com/elicorrales/tensorflow.js-color-classifier/blob/master/color.classifier.training.scrnshot.PNG" width="350" title="Youtube Demo">
+</a>
+
+
 # Polynomial Regression Using Tensorflow.js
 <a href="https://github.com/elicorrales/tensorflow.js-polynomial-regression-demo"><h3> The Project Code </h3></a>
 ## (click image for demo video)
