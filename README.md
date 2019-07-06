@@ -1,3 +1,11 @@
+# Control Multiple Cameras To Capture And Estimate Object Distance - First Attempt
+<a href="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1"><h3> The Project Code </h3></a>
+## (click image for demo video)
+<a href="https://www.youtube.com/watch?v=5o_w1w8WdUI">
+<img src="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1/blob/master/mult.cam.obj.dist.PNG" width="350" title="Youtube Demo">
+</a>
+
+
 # A.I. Machine Learning Flappy Bird Toy Neural Network Demo
 <a href="https://github.com/elicorrales/Flappy.Bird.Neural.Network.Demo"><h3> The Project Code </h3></a>
 ## (click image for demo video)
