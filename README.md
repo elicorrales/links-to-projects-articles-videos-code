@@ -1,3 +1,8 @@
+# Resume'
+https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/eli.corrales.latest.resume.pdf
+#
+
+
 # Control Multiple Cameras To Capture And Estimate Object Distance - First Attempt
 <a href="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1"><h3> The Project Code </h3></a>
 ## (click image for demo video)
