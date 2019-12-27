@@ -1,5 +1,11 @@
-# Resume'
+# Professional Resume'
 https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/eli.corrales.latest.resume.pdf
+#
+#
+
+# Resume' - Robotics , IoT, Custom Automated Testing
+https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/eli.corrales.robotics.resume.pdf
+#
 #
 
 
