@@ -1,5 +1,6 @@
 # Professional Resume'
 https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/eli.corrales.latest.resume.pdf
+https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/The.Latest.Resume.pdf
 #
 #
 
