@@ -1,19 +1,23 @@
 # Professional Resume'
-https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/The.Latest.Resume.pdf
-#
-#
-
-# Resume' - Robotics , IoT, Custom Automated Testing
-https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/eli.corrales.robotics.resume.pdf
-#
-#
+https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/The.Latest.Resume.pdf  
+<br/>
 
 
-# Control Multiple Cameras To Capture And Estimate Object Distance - First Attempt
-<a href="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1"><h3> The Project Code </h3></a>
-## (click image for demo video)
-<a href="https://www.youtube.com/watch?v=5o_w1w8WdUI">
-<img src="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1/blob/master/mult.cam.obj.dist.PNG" width="350" title="Youtube Demo">
+# Resume' - Robotics , IoT, Custom Automated Testing  
+https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/master/eli.corrales.robotics.resume.pdf  
+<br/>
+<br/>
+
+# Blockchain Decentralized Applications (dApss) Tutorials  
+https://github.com/elicorrales/blockchain-tutorials/blob/main/README.md  
+<br/>
+<br/>
+
+# Control Multiple Cameras To Capture And Estimate Object Distance - First Attempt  
+<a href="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1"><h3> The Project Code </h3></a>  
+## (click image for demo video)  
+<a href="https://www.youtube.com/watch?v=5o_w1w8WdUI">  
+<img src="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1/blob/master/mult.cam.obj.dist.PNG" width="350" title="Youtube Demo">  
 </a>
 
 
