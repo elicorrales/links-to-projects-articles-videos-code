@@ -8,7 +8,7 @@ https://github.com/elicorrales/links-to-projects-articles-videos-code/blob/maste
 <br/>
 <br/>
 
-# Blockchain Decentralized Applications (dApss) Tutorials  
+# Blockchain Decentralized Applications (dApps) Tutorials  
 https://github.com/elicorrales/blockchain-tutorials/blob/main/README.md  
 <br/>
 <br/>
