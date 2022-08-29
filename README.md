@@ -13,6 +13,12 @@ https://github.com/elicorrales/blockchain-tutorials/blob/main/README.md
 <br/>
 <br/>
 
+# Rust and WASM Tutorials  
+https://github.com/elicorrales/learning-rust-n-wasm-tutorials/blob/main/README.md  
+<br/>
+<br/>
+
+
 # Control Multiple Cameras To Capture And Estimate Object Distance - First Attempt  
 <a href="https://github.com/elicorrales/control-multi-camera-javascript-estimate-distance-1"><h3> The Project Code </h3></a>  
 ## (click image for demo video)  
