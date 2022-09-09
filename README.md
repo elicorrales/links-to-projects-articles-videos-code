@@ -18,11 +18,10 @@ https://github.com/elicorrales/learning-rust-n-wasm-tutorials/blob/main/README.m
 <br/>
 <br/>
 
-# Rust Tutorials Inspired By Book: O'Reilly Programming Rust - Fast, Safe Systems Development  
-https://github.com/elicorrales/book-rust-programming-systems-development-tutorials/blob/main/README.md  
+# How I Learn Rust Tutorials Inspired By Books, Website, Etc  
+https://github.com/elicorrales/how-i-learn-rust-tutorial-links/edit/main/README.md  
 <br/>
 <br/>
-
 
 
 # Control Multiple Cameras To Capture And Estimate Object Distance - First Attempt  
