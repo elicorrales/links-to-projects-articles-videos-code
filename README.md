@@ -19,7 +19,7 @@ https://github.com/elicorrales/learning-rust-n-wasm-tutorials/blob/main/README.m
 <br/>
 
 # How I Learn Rust Tutorials Inspired By Books, Websites, Etc  
-https://github.com/elicorrales/how-i-learn-rust-tutorial-links/edit/main/README.md  
+https://github.com/elicorrales/how-i-learn-rust-tutorial-links/blob/main/README.md  
 <br/>
 <br/>
 
